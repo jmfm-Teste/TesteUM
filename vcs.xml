@@ -26,4 +26,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/21-AndroidStudio_Testes/github" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
 </application>
